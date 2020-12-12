@@ -1,0 +1,5 @@
+nombrePorDefectoTopologia = "topo" 
+nombrePorDefectoGdb = "NuevaGdb.gdb"
+FolderParaGuardarNuevaGdb = "C:/Users/usuario/Documents/compartida/05_02_2020"
+rutaActualGdb = "C:/Users/usuario/Documents/compartida/05_02_2020/version1_asig8.gdb"
+zone = "14"
